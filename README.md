@@ -1,0 +1,18 @@
+      {
+  "terminal.integrated.fontSize": 32,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.colorCustomizations": {},
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "vscode-icons",
+  "kite.showWelcomeNotificationOnStartup": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": null,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+  "editor.lineHeight": 0,
+  "editor.fontSize": 32,
+  "vsicons.dontShowNewVersionMessage": true,
+}
